@@ -16,5 +16,12 @@ exports[`returns super heros that can fly 1`] = `
       "fly",
     ],
   },
+  {
+    "name": "Jack-Jack",
+    "powers": [
+      "shapeshifting",
+      "fly",
+    ],
+  },
 ]
 `;
